@@ -702,7 +702,7 @@ a:visited {
 	border-bottom-left-radius:10px;
 	text-indent:0px;
 	border:1px solid #d83526;
-	display:inline-block;
+	display:block;
 	color:#ffffff;
 	font-family:Arial;
 	font-size:25px;
@@ -710,6 +710,7 @@ a:visited {
 	font-style:normal;
 	height:65px;
 	line-height:65px;
+	margin:0 auto;
 	width:180px;
 	text-decoration:none;
 	text-align:center;
