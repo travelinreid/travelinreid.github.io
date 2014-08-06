@@ -717,6 +717,11 @@ a:visited {
 	text-shadow:1px 1px 0px #b23e35;
 }
 
+.email-button a:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
 .email-button:hover {
 	background-color:#ce0100;
 }
